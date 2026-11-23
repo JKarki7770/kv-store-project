@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data.db
+data_backup.db
+.venv/
+.DS_Store
+.ruff_cache/
